@@ -152,7 +152,7 @@ transition: opacity 0.2s ease-in;
 
 
 .title_view {
-    font-size: 30px;
+    font-size: 45px;
     font-weight: 500;
     line-height: 1.6;
     text-align: center;
@@ -188,7 +188,7 @@ transition: opacity 0.2s ease-in;
 
 
 .title-project-3d {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 500;
     line-height: 1.6;
     text-align: center;
@@ -315,6 +315,20 @@ transition: opacity 0.2s ease-in;
         font-size: 14px;
         font-weight: 700;
     }
+
+  .title_view {
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1.3;
+    text-align: center;
+}
+
+  .title-project-3d {
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 1.4;
+    text-align: center;
+}
 
     .title-1 {
       padding: 15px 29px; 
