@@ -292,6 +292,14 @@ transition: opacity 0.2s ease-in;
 }
 
 @media (max-width: 620px) {
+
+    .nav-list {
+
+        column-gap: 45px;
+        font-size: 20px;
+     
+    }
+  
     .header {
         padding: 80px 0;
         min-height: unset;
